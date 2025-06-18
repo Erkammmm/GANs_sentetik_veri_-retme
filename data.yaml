@@ -1,0 +1,8 @@
+path: C:\Users\cetki\Desktop\BAŞLANGIÇ(21.10.2024)\Yolo_Youtube\YOLO11_TRAİN_TEST_VERİSETİ_OPTM_İHA\train_test_valid_split\Dataset\SplitData
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+
+nc: 1
+names: ['airplane']
